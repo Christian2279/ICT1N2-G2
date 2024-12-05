@@ -1,7 +1,3 @@
-read me: wala ng gagalawin aralin nalang kung gusto nyo i run fix nyo lang package tyaka class 
-
-
-
 package MyProject;
 
 	import java.util.InputMismatchException;
